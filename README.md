@@ -35,9 +35,13 @@ Business Analytics: Encompasses more advanced methods like sales forecasting and
 Future:
 
 Data Science: Involves more sophisticated techniques for optimization and operational efficiency, such as optimization of drilling operations.
+
 Data Analytics: Advanced data processing techniques, such as digital signal processing, aimed at extracting more meaningful insights from data.
+
 Machine Learning: Utilizes algorithms to learn from data and make predictions or decisions.
+
 AI (Artificial Intelligence): The most advanced stage, where systems are capable of performing tasks that typically require human intelligence.
+
 Overall Progression:
 The image demonstrates a shift from basic, historical data reporting to more advanced, predictive, and prescriptive analytics.
 As we move from past to future, the methods and technologies used become more sophisticated, with a greater emphasis on advanced analytics and AI.
@@ -46,9 +50,16 @@ Present: Current applications include business intelligence tools for reporting 
 Future: Future applications aim at optimization, advanced data processing, machine learning, and AI to drive decision-making and operational efficiency.
 Implications:
 Organizations must evolve from basic reporting and analytics to adopt more advanced data science and AI techniques to stay competitive.
+
 The shift indicates an increasing reliance on data-driven decision-making processes, requiring investments in technology and expertise.
 This visualization effectively shows the continuum of data-related practices from basic reporting to advanced analytics and AI, highlighting the evolving landscape of data science and its applications.
 
+Buisness Intelligence: The process of analysing and reporting historical data.
+Note: Preliminary data report is the first step of any data analysis.
+
+Traditional data: Data is structured, stored in databases and can be managed from one computer.
+
+Big data: Extremly large format data, data can be structured or semi-structured or unstructured, can be managed from multiple computer.
 
 
 
